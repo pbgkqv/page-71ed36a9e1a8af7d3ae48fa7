@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://c.maeka.cn/sitemap.xml
